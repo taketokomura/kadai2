@@ -17,7 +17,8 @@ OS:Ubuntu 20.04
 
 ## 実装機能
 ```
-
+rostopic echo /count_up を実行するとdefaultと出力される。
+rosrun mypkg twice.py　を実行するとある数字が一定に増え、その数値と五倍の値が出力される。
 ```
 
 ## 動作法
@@ -37,3 +38,6 @@ OS:Ubuntu 20.04
 
 ## youtube URL
 https://youtu.be/1TjmwCAbohs
+
+## 作成者
+上田准教授　小村岳都
