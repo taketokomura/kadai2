@@ -2,7 +2,7 @@
 import rospy 
 from std_msgs.msg import String 
 def cb(message): 
-    rospy.loginfo("recieved %s", message.data) 
+    rospy.loginfo("茨城県在住 %s", message.data) 
     now = rospy.Time.now() 
     rospy.loginfo("now: %f", now.to_sec()) 
     rospy.loginfo("five: %f", now.to_sec()*5)
