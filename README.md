@@ -12,8 +12,8 @@ OS:Ubuntu 20.04
 
 ## インストール方法
 ```
-$ git clone https://github.com/taketokomura/kadai2.git
 $　cd ~/catkin_ws/src
+$ git clone https://github.com/taketokomura/kadai2.git
 $　cd ~/catkin_ws
 $　catkin_make
 $　source ~/.bashrc
