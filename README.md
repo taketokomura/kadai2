@@ -17,6 +17,7 @@ OS:Ubuntu 20.04
 
 ## 実装機能
 ```
+rosrun mypkg count.py　を実行するとフルネームが出力される。
 rostopic echo /count_up を実行するとdefaultと出力される。
 rosrun mypkg twice.py　を実行すると値が一定に増え、その数値と五倍の値が出力される。
 ```
