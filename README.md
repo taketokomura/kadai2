@@ -41,3 +41,6 @@ https://youtu.be/1TjmwCAbohs
 
 ## 作成者
 上田准教授　小村岳都
+
+## ライセンス
+GNU General Public License v3.0
