@@ -12,7 +12,14 @@ OS:Ubuntu 20.04
 
 ## インストール方法
 ```
- $ git clone https://github.com/taketokomura/kadai2.git
+$ git clone https://github.com/taketokomura/kadai2.git
+$　cd ~/catkin_ws/src
+$　cd ~/catkin_ws
+$　catkin_make
+$　source ~/.bashrc
+端末1$　cd catkin_ws/src
+端末2.4$ cd catkin_ws/src
+端末3$ cd catkin_ws
 ```
 
 ## 実装機能
@@ -37,10 +44,10 @@ rosrun mypkg twice.py　を実行すると値が一定に増え、その数値�
 ・加藤舞子
 
 ## youtube URL
-https://youtu.be/1TjmwCAbohs
+
 
 ## 作成者
 上田准教授　小村岳都
 
 ## ライセンス
-GNU General Public License v3.0
+BSD 3-Clause License
