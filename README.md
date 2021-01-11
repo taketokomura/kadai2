@@ -28,6 +28,8 @@ rosrun mypkg count.py　を実行するとフルネームが出力される。
 rosrun mypkg twice.py　を実行すると値が一定に増え、その数値と五倍の値が出力される。
 ```
 
+```roscore```あいいぇお
+
 ## 動作法
 ```
 端末1$ roscore
